@@ -1,4 +1,4 @@
-🧠 **IoTPlanet | Protocol Tools × Edge AI**  
-Open-source toolkits for decoding JT/T 808, GB32960, and custom IoT protocols,  
-enhanced with lightweight AI for real-time device intelligence.  
-→ Building a decentralized nervous system for the physical world.
+ 🌐 **Building the Intelligent Planet of Things**  
+Core Project: [xtream-codec] - Extensible codec for JT-808/Modbus/Custom protocols  
+Next: Edge AI Orchestration Framework (Q4 2025) → #DeviceIntelligence
+🧠 **IoTPlanet | Protocol Tools × Edge AI** 
